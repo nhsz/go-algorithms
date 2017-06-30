@@ -1,6 +1,7 @@
 package bubblesort
 
 // Sort implements the Bubble Sort algorithm with a slice of integers
+// Complexity: O(n^2)
 func Sort(list []int) {
 	n := len(list)
 	swapCounter := -1
