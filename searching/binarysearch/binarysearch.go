@@ -13,8 +13,7 @@ func Search(list []int, value, min, max int) int {
 			return Search(list, value, min, centralPosition-1)
 		} else if value > list[centralPosition] {
 			return Search(list, value, centralPosition+1, max)
-		} else {
-			return centralPosition
 		}
+		return centralPosition
 	}
 }
