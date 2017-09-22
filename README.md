@@ -1,3 +1,3 @@
-# golang-algorithms
+# go-algorithms
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/nhsz/golang-algorithms)](https://goreportcard.com/report/github.com/nhsz/golang-algorithms)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nhsz/go-algorithms)](https://goreportcard.com/report/github.com/nhsz/go-algorithms)
